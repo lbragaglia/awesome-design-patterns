@@ -1,10 +1,6 @@
-# Awesome Design Patterns
+# Coding Patterns
 
-> A curated list of interesting resources on software design patterns.
-
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
-
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+> A curated list of interesting resources on software coding patterns, principles and practices.
 
 
 ## Contents
